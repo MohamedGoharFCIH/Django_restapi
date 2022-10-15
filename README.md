@@ -12,7 +12,9 @@ source venv/bin/activate
 
 4- pip install -r requirements.txt 
 
-5- python manage.py makemigrations or  python manage.py makemigrations  users
+5- python manage.py makemigrations 
+or 
+python manage.py makemigrations  users
 
 6- python manage.py migrate
 
