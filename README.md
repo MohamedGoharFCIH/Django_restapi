@@ -3,9 +3,11 @@
 to run project 
 
 1- create venv
+
 python -m venv venv
 
 2- activate venv
+
 source venv/bin/activate
 
 3- go to project path 
